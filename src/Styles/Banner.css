@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.banner-container{
+    background-image: url("https://static.fabrik.io/k4i/2734bee469e7c859.jpg?auto=format&lossless=1&q=95&fit=crop&crop=faces%2Centropy&ar=16%3A9&w=1728&ixlib=csharp-3.2.2.0&s=1f3b1dcc32fe12a5e802538acdc16b24");
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    padding: 0 10%;
+}
+
+
+
+
+
+
+
+
+

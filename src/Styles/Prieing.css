@@ -1,0 +1,88 @@
+.pricing{
+    padding: 70px;
+    background-color: #f4f9fe;
+}
+
+
+.pricing-text{
+    margin: 50px 0;
+}
+.pricing-text>h1{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.pricing-text>p{
+    font-size: 20px;
+    font-weight: 100;
+    margin-bottom: 20px;
+}
+.pricing-text>hr{
+    margin: 50px 0;
+    color: #0942ff;
+}
+
+.support{
+    display: flex;
+}
+
+
+.personal{
+    width: 400px;
+    border: 1px solid #2d8bf6e1;
+    margin: 0 2px;
+
+}
+.personal>h4{
+    padding: 20px 50px;
+}
+
+
+.per-month{
+    background-color: #2d8bf6e1;
+    color: white;
+    width: 400px;
+    text-align: center;
+}
+.per-month>h1{
+    font-size: 70px;
+    font-weight: 400;
+    padding: 30px 0;
+}
+.per-month>p{
+    
+    padding: 30px 0;
+}
+.Professional-month{
+    background-color: #2d5cf6e1;
+    color: white;
+    width: 400px;
+    text-align: center;
+}
+.Professional-month>h1{
+    font-size: 70px;
+    font-weight: 400;
+    padding: 30px 0;
+}
+.Professional-month>p{
+    
+    padding: 30px 0;
+}
+.unlimited-month{
+    background-color: #051139e1;
+    color: white;
+    width: 400px;
+    text-align: center;
+}
+.unlimited-month>h1{
+    font-size: 70px;
+    font-weight: 400;
+    padding: 30px 0;
+}
+.unlimited-month>p{
+    
+    padding: 30px 0;
+}
+
+.personal-text{
+    padding: 30px 50px;
+}

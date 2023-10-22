@@ -1,0 +1,31 @@
+
+
+.arimation{
+    display: flex;
+    padding: 0 90px;
+    background-color: #d5d4d1aa;
+}
+.arimation>img{
+    width: 500px;
+    height: 400px;
+    object-fit: cover;
+    margin-top: 200px;
+}
+
+.arimation-text{
+    margin-top: 70px;
+    width: 600px;
+}
+.arimation-text>h1{
+    font-size: 35px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+.arimation-text>p{
+    
+    margin-bottom: 300px;
+}
+
+.p-text{
+    width: 300px;
+}

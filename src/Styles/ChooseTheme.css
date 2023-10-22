@@ -1,0 +1,28 @@
+
+
+.choose{
+    display: flex;
+}
+
+.themes-text{
+    padding: 70px;
+    color: #67cf8b;
+    cursor: pointer;
+}
+.themes-text>.fabrik{
+    margin-bottom: 30px;
+}
+
+.choose-text{
+    padding: 70px 70px;
+}
+
+.choose-imges{
+    display: flex;
+}
+
+.theme-img>img{
+    width: 300px;
+    padding: 20px 30px;
+
+}

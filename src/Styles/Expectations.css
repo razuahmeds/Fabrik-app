@@ -1,0 +1,26 @@
+.continer{
+    background-color: #d4d4d4;
+    padding: 70px;
+}
+
+
+
+.upgrades{
+    
+    width: 600px;
+    margin-bottom: 40px;
+}
+
+
+.text-continer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.text{
+    margin: 50px 0;
+    width: 300px;
+}
+.text>p{
+    font-size: 19px;
+}

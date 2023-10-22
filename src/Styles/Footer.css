@@ -1,0 +1,10 @@
+.constructor{
+    background-color: black;
+    color: white;
+    padding: 90px 70px;
+}
+
+.main-footer{
+    display: flex;
+    justify-content: space-between;
+}

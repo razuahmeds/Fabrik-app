@@ -1,0 +1,70 @@
+
+.nav-bar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10%;
+    background-image: url("https://static.fabrik.io/k4i/2734bee469e7c859.jpg?auto=format&lossless=1&q=95&fit=crop&crop=faces%2Centropy&ar=16%3A9&w=1728&ixlib=csharp-3.2.2.0&s=1f3b1dcc32fe12a5e802538acdc16b24");
+}
+
+
+.banner-info>h1 {
+    font-size: 56px;
+    width: 550px;
+    color: #fffefe;
+}
+
+.banner-info>p {
+    color: #fff;
+}
+
+
+
+.nav-links {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.nav-links>h4 {
+    margin: 0 15px;
+    font-weight: 400;
+    color: #fefefe;
+}
+
+.get-start-btn {
+    background-color: #389bf1e8;
+    margin: 0 25px;
+    padding: 10px 25px;
+    cursor: pointer;
+    font-size: 18px;
+    color: #000000;
+    border: none;
+}
+
+.get-start-btn:hover {
+
+    background: none;
+    border: 2px solid #fefefe;
+    color: #000000;
+}
+
+.login-btn {
+    padding: 7px 20px;
+    border: none;
+    background: none;
+    font-size: 24px;
+    color: #000000;
+}
+.prieing-btn {
+    padding: 7px 20px;
+    border: none;
+    background: none;
+    font-size: 24px;
+    color: #000000;
+}
+
+
+.nav-links>h4{
+    color: #000;
+}
