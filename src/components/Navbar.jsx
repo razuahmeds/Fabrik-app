@@ -5,7 +5,9 @@ import { Link } from "react-router-dom";
 function Navbar() {
   return (
     <nav className="nav-bar">
-      <h1>Fabrik</h1>
+      <Link to={`/Home`}>
+        <h1>Fabrik</h1>
+      </Link>
       <div className="nav-links">
         <Link to={`/ChooseTheme`}>
           <button className="get-start-btn">Gat Started</button>

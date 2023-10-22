@@ -46,7 +46,7 @@
 
     background: none;
     border: 2px solid #fefefe;
-    color: #000000;
+    color: #fffdfd;
 }
 
 .login-btn {
@@ -56,6 +56,10 @@
     font-size: 24px;
     color: #000000;
 }
+.login-btn:hover {
+
+    color: #ffffff;
+}
 .prieing-btn {
     padding: 7px 20px;
     border: none;
@@ -63,7 +67,10 @@
     font-size: 24px;
     color: #000000;
 }
-
+.prieing-btn:hover {
+    
+    color: #ffffff;
+}
 
 .nav-links>h4{
     color: #000;
