@@ -2,28 +2,42 @@
 
 .arimation{
     display: flex;
-    padding: 0 90px;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0 70px;
     background-color: #d5d4d1aa;
 }
+
+.show-hr{
+    padding: 1px;
+    background-color: red;
+    width: 250px;
+    margin-bottom: 50px;
+    margin-left: 180px;
+}
+
+
 .arimation>img{
     width: 500px;
     height: 400px;
     object-fit: cover;
-    margin-top: 200px;
 }
 
 .arimation-text{
-    margin-top: 70px;
+    margin-top: 100px;
     width: 600px;
 }
 .arimation-text>h1{
     font-size: 35px;
     font-weight: 400;
     margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .arimation-text>p{
     
-    margin-bottom: 300px;
+    margin-bottom: 200px;
 }
 
 .p-text{

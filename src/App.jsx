@@ -13,10 +13,10 @@ function App() {
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/ChooseTheme" element={<ChooseTheme />} />
-        <Route path="/Login" element={<Login />} />
+        <Route path="/chooseTheme" element={<ChooseTheme />} />
+        <Route path="/login" element={<Login />} />
         <Route path="/Login/Register" element={<Register />} />
-        <Route path="/Prieing" element={<Prieing />} />
+        <Route path="/prieing" element={<Prieing />} />
       </Routes>
     </Router>
   );

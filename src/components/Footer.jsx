@@ -6,7 +6,7 @@ function Footer() {
       <div className="main-footer">
         <div className="footer-text">
           <h1>Fabrik</h1>
-          <p>Copyright © 2023 Fabrik. All rights reserved.</p>
+          <p>Copyright © 2023 Fabrik ❤️ All rights reserved.</p>
         </div>
         <div>
           <p>Themes</p>

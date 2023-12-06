@@ -1,5 +1,5 @@
 .continer{
-    background-color: #d4d4d4;
+    background-color: #cac6ba6e;
     padding: 70px;
 }
 
@@ -15,11 +15,14 @@
 .text-continer{
     display: flex;
     justify-content: space-between;
+    
 }
 
 .text{
     margin: 50px 0;
     width: 300px;
+    padding: 50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 .text>p{
     font-size: 19px;

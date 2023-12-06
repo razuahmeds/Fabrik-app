@@ -3,7 +3,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 10%;
+    padding: 0 5%;
     background-image: url("https://static.fabrik.io/k4i/2734bee469e7c859.jpg?auto=format&lossless=1&q=95&fit=crop&crop=faces%2Centropy&ar=16%3A9&w=1728&ixlib=csharp-3.2.2.0&s=1f3b1dcc32fe12a5e802538acdc16b24");
 }
 
@@ -18,6 +18,10 @@
     color: #fff;
 }
 
+.logo-img{
+    width: 60px;
+}
+
 
 
 .nav-links {
@@ -28,7 +32,7 @@
 
 .nav-links>h4 {
     margin: 0 15px;
-    font-weight: 400;
+    font-weight: 300;
     color: #fefefe;
 }
 
@@ -49,25 +53,45 @@
     color: #fffdfd;
 }
 
-.login-btn {
-    padding: 7px 20px;
+
+.login-button{
     border: none;
     background: none;
     font-size: 24px;
-    color: #000000;
+    padding: 7px 10px;
+    font-weight: 300;
+    margin-left: 60px;
+    border: 2px solid white;
 }
-.login-btn:hover {
 
+.login-button:hover{
     color: #ffffff;
+        background: rgb(0, 179, 255);
+        border: none;
+        font-weight: bold;
 }
+
 .prieing-btn {
     padding: 7px 20px;
     border: none;
     background: none;
     font-size: 24px;
+    font-weight: 300;
     color: #000000;
 }
 .prieing-btn:hover {
+    
+    color: #ffffff;
+}
+.men-button {
+    padding: 7px 20px;
+    border: none;
+    background: none;
+    font-size: 24px;
+    font-weight: 300;
+    color: #000000;
+}
+.men-button:hover {
     
     color: #ffffff;
 }

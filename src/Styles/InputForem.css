@@ -1,6 +1,18 @@
 .contenrs{
     background-color: #2a2929;
     color: #ffffff;
+    display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+}
+
+.contenrs-text-h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.contenrs-text-h1:hover{
+    color: tomato;
+    cursor: pointer;
 }
 
 

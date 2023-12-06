@@ -1,5 +1,5 @@
 .worldwide{
-    background-color: #bec7cfb1;
+    background-color: #d5d4d1aa;
 }
 
 
@@ -7,6 +7,12 @@
 .studios{
     width: 700px;
     padding: 60px 70px;
+}
+.studios h2{
+    font-weight: bold;
+}
+.studios h2 >samp{
+    font-weight: 400;
 }
 .studios>p{
     margin: 30px 0;

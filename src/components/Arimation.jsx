@@ -6,19 +6,18 @@ function Arimation() {
       <section className="arimation">
         <div className="arimation-text">
           <h1>Show and tell</h1>
+          <hr className="show-hr" />
           <p>
             Fabrik Heroes supports and celebrates great creative leaders from
-            the Fabrik community.
+            the Fabrik community Lorem ipsum, dolor sit amet consectetur
+            adipisicing elit. Perferendis, vero. Error dolor minus ipsam cum
+            nesciunt aut sunt officiis hic culpa nihil ipsa modi, optio
+            accusamus debitis, perferendis vero mollitia? Lorem ipsum, dolor sit
+            amet consectetur adipisicing elit. Dicta dolore id error
+            consequuntur eos, tempore officia quisquam? Ex ipsum pariatur, porro
+            culpa dolorem provident iure, consequuntur, neque alias hic
+            doloribus.
           </p>
-          <div className="p-text">
-            <h5>Fashion to football</h5>
-            <p>
-              That idea, of creating a place for people to escape to, the
-              feeling of awe and wonder, that’s what keeps me doing
-            </p>
-            <h5>Maxx Burman</h5>
-            <p>Calico Show</p>
-          </div>
         </div>
         <img
           src="https://img.freepik.com/free-photo/portrait-asian-woman-business-owner-using-digital-tablet-checking-amount-stock-product-inventory-shelf-distribution-warehouse-factorylogistic-business-shipping-delivery-service_609648-2196.jpg?w=2000"

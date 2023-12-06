@@ -27,7 +27,16 @@
 
 
 
+.banner-info > h1:hover{
+    color: tomato;
+    cursor: pointer;
 
+}
+.banner-info > p:hover{
+    color: tomato;
+    cursor: pointer;
+
+}
 
 
 

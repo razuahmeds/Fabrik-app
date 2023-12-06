@@ -7,10 +7,12 @@ function Banner() {
       <div className="banner-info">
         <h1>Beautiful portfolio websites in minutes.</h1>
         <p>
-          Join the s leading filmmakers, artists, Photographers and designers.
-          Build yours now.
+          <i>
+            Join the s leading filmmakers, artists, Photographers and designers.
+            Build yours now.
+          </i>
         </p>
-        <Link to={`/ChooseTheme`}>
+        <Link to={`/chooseTheme`}>
           <button className="get-start-btn ">Gat Started</button>
         </Link>
       </div>
